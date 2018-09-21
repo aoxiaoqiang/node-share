@@ -6,7 +6,7 @@
   "subdomain": "",
   "main": "",
   "scripts": {
-    "test": "grunt test",
+    "test": "node test/test",
     "start": "grunt serve"
   },
   "author": {
